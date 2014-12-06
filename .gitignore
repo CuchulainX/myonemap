@@ -13,6 +13,36 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.sln.docstates
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.one
+*.onetoc2
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+*.vssscc
+$tf*/
 
 # =========================
 # Operating System Files
@@ -26,8 +56,7 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
-
+Icon
 # Thumbnails
 ._*
 

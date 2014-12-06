@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myonemap", "myonemap\myonemap.csproj", "{D094D4ED-148F-4FA7-9231-5069C6684F7F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "myonemapSetup", "myonemapSetup\myonemapSetup.vdproj", "{7AD1C717-1B01-4DCD-8712-05D299AB3BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{E0E46C85-2CA1-4951-B9BC-0BCFC71ACEF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A8BA12E6-05AD-4A14-AE14-1CEE1BD8B275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D094D4ED-148F-4FA7-9231-5069C6684F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D094D4ED-148F-4FA7-9231-5069C6684F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D094D4ED-148F-4FA7-9231-5069C6684F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D094D4ED-148F-4FA7-9231-5069C6684F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD1C717-1B01-4DCD-8712-05D299AB3BA3}.Debug|Any CPU.ActiveCfg = Debug
+		{7AD1C717-1B01-4DCD-8712-05D299AB3BA3}.Release|Any CPU.ActiveCfg = Release
+		{E0E46C85-2CA1-4951-B9BC-0BCFC71ACEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E46C85-2CA1-4951-B9BC-0BCFC71ACEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E46C85-2CA1-4951-B9BC-0BCFC71ACEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E46C85-2CA1-4951-B9BC-0BCFC71ACEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
